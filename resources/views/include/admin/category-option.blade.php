@@ -1,0 +1,1 @@
+<option value="{{$category->id}}" @if(isset($product) && $product->type == $category->id ) selected  @endif> {{$category->name}} </option>

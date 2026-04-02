@@ -1,0 +1,1 @@
+<a href="{{route('products', ['filter_id'=>$filter->id])}}"><button class="filter-btn @if($current_id == $filter->id) active @endif" data-category="{{ $filter->id }}">{{ $filter->name }}</button></a>
