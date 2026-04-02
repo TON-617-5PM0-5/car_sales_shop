@@ -25,7 +25,7 @@ This project is a learning application built with the **Laravel Framework** to c
 - **Backend Framework**: [Laravel](https://laravel.com/)
 - **Frontend UI**: HTML, CSS, JavaScript
 - **UI Design Tool**: [Cursor AI](https://www.cursor.sh/)
-- **Database**: MySQL/SQLite
+- **Database**: MySQL
 - **Server**: PHP
 
 ## 📦 Installation
@@ -96,44 +96,10 @@ This project was created as a learning exercise to understand:
 
 ## 🎯 Current Status
 
-- ✅ User-facing car listings
-- ✅ Admin authentication
-- 🔄 Admin panel (mid-development)
-- ✅ Contact page functionality
-- ✅ Responsive UI design
-
-## 📝 Project Structure
-
-```
-car_sales_shop/
-├── app/
-├── bootstrap/
-├── config/
-├── database/
-├── public/
-├── resources/
-│   ├── css/
-│   ├── js/
-│   └── views/
-├── routes/
-├── storage/
-├── tests/
-└── README.md
-```
-
-## 🔜 Future Enhancements
-
-- Complete admin panel functionality
-- User registration and profiles
-- Advanced search and filtering
-- Image gallery for car listings
-- Email notifications
-- Payment integration
-- User reviews and ratings
-
-## 📄 License
-
-This project is open source and available under the MIT License.
+-  User-facing car listings
+-  Admin authentication
+-  Admin panel (mid-development)
+-  Contact page functionality
 
 ## 👨‍💻 Author
 
